@@ -1,4 +1,4 @@
-package com.example.pokodex
+package com.ozsoftware.pokedexplorer
 
 import io.flutter.embedding.android.FlutterActivity
 

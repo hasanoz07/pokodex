@@ -41,7 +41,7 @@ class _PokemonListState extends State<PokemonList> {
             );
           } else if (snapshot.hasError) {
             return const Center(
-              child: Text("Hata Çıktı"),
+              child: Text("Hata Çıktı",style: TextStyle(color: Colors.white),),
             );
           } else {
             return Center(

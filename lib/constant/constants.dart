@@ -6,13 +6,13 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class Constants{
   Constants._();
-  static const String title="Pokodex";
+  static const String title="PokeDexplorer";
  static const String pokeballImageUrl = "assets/images/pokeball.png";
   static  TextStyle getTitleStyle(){
     return  TextStyle(
       color: Colors.white,
       fontWeight: FontWeight.bold,
-      fontSize: _calculateFontSize(48),
+      fontSize: _calculateFontSize(36),
     );
     
   }

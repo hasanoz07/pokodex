@@ -2,7 +2,7 @@
     package="com.ozsoftware.pokedexplorer">
     <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="PokeDexplorer"
+        android:label="Cep Canavarları"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity

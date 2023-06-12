@@ -1,12 +1,11 @@
 
-import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class Constants{
   Constants._();
-  static const String title="PokeDexplorer";
+  static const String title="Cep Canavarları";
  static const String pokeballImageUrl = "assets/images/pokeball.png";
   static  TextStyle getTitleStyle(){
     return  TextStyle(

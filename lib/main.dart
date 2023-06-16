@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         builder: (context, child) {
           return MaterialApp(
             debugShowCheckedModeBanner: false,
-            title: 'PokeDexplorer',
+            title: 'Cep Canavarları',
             theme: ThemeData.dark().copyWith(textTheme: GoogleFonts.latoTextTheme(),),
             
             home: SafeArea(child: const HomePage()),
